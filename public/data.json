@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "age": 32,
+      "salary": 2000,
+      "country": "India",
+      "img_url": "https://i.ibb.co/vLVY6RW/kohli.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Steve Smith",
+      "age": 31,
+      "salary": 1500,
+      "country": "Australia",
+      "img_url": "https://i.ibb.co/PwNf9xL/smith.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kane Williamson",
+      "age": 30,
+      "salary": 1200,
+      "country": "New Zealand",
+      "img_url": "https://i.ibb.co/mrjGfc5/willamson.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Joe Root",
+      "age": 30,
+      "salary": 1400,
+      "country": "England",
+      "img_url": "https://i.ibb.co/YTyVGrg/root.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Babar Azam",
+      "age": 26,
+      "salary": 1100,
+      "country": "Pakistan",
+      "img_url": "https://i.ibb.co/ZdcfSTp/babar.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kagiso Rabada",
+      "age": 25,
+      "salary": 1300,
+      "country": "South Africa",
+      "img_url": "https://i.ibb.co/10L0md5/rabada.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kusal Mendis",
+      "age": 27,
+      "salary": 9000,
+      "country": "Sri Lanka",
+      "img_url": "https://i.ibb.co/BVM7qrF/kusal.jpg"
+    },   
+    {
+      "id": 8,
+      "name": "Rashid Khan",
+      "age": 22,
+      "salary": 8000,
+      "country": "Afghanistan",
+      "img_url": "https://i.ibb.co/DgW0MjY/rashid.jpg"
+    }
+  ]
+  
